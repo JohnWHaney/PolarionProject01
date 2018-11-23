@@ -7,6 +7,7 @@
  ***/
  int m_iReturnCommEnabled(void)
  {
+  /* need some comments */
   int iRet;
   iRet=3;
   return (iRet);
