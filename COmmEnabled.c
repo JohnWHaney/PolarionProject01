@@ -10,6 +10,7 @@
   /* need some comments */
   int iRet;
   iRet=3;
+  iRet = iRet++;
   return (iRet);
   }
  
