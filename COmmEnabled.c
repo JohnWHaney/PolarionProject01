@@ -9,7 +9,9 @@
  {
   /* need some comments */
   int iRet;
+  String sPowerTrainECU;
   iRet=3;
+  sPowerTrainECU =(String) NULL;
   iRet = iRet++;
   return (iRet);
   }
