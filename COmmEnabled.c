@@ -10,8 +10,10 @@
   /* need some comments */
   int iRet;
   String sPowerTrainECU;
+  String sMasterECU;
   iRet=3;
   sPowerTrainECU =(String) NULL;
+  sMasterECU =(String) NULL;
   iRet = iRet++;
   return (iRet);
   }
