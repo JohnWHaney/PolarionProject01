@@ -5,7 +5,7 @@
 #include <stdio.h>
 int main()
 { 
-   bool bIsPowerTrainECU;    // ECU ID for Self Drive
+   bool bIsPowerTrainECU;    // Flag to IS ECU
    
   bIsPowerTrainECU = false;
    // printf() displays the string inside quotation
