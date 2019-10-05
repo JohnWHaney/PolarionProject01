@@ -12,3 +12,4 @@
     <jndi-name>java:/JetspeedDS</jndi-name>
   </resource-ref>
 </jboss-web>
+<!- adding comment for giggles ->
