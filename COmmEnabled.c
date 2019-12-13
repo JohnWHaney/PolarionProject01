@@ -15,6 +15,7 @@
   sPowerTrainECU =(String) NULL;
   sMasterECU =(String) NULL;
   iRet = iRet++;
+  System.out.println("Is this the right command for the language.");
   return (iRet);
   }
  /**
