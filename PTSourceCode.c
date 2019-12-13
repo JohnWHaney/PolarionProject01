@@ -9,8 +9,10 @@ int main()
 { 
    bool bIsPowerTrainECU;    // Flag to IS ECU
    int iFlg;
+   String sMe; 
    
-  bIsPowerTrainECU = false;
+   
+    bIsPowerTrainECU = false;
    // printf() displays the string inside quotation
    printf("Hello, World!");
    return 0;
