@@ -2,10 +2,13 @@
  *  PTSourceCode.c
  */ 
 
+// Adding change to test polarion see TPR-292 
+
 #include <stdio.h>
 int main()
 { 
    bool bIsPowerTrainECU;    // Flag to IS ECU
+   int iFlg;
    
   bIsPowerTrainECU = false;
    // printf() displays the string inside quotation
